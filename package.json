@@ -1,0 +1,24 @@
+{
+  "name": "lambda-shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "delete-cart-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinloveless/lambda-shopping-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinloveless/lambda-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/austinloveless/lambda-shopping-cart#readme",
+  "dependencies": {
+    "aws-sdk": "^2.347.0",
+    "dotenv": "^6.1.0"
+  }
+}
